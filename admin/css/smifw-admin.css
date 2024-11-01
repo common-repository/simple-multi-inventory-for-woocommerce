@@ -1,0 +1,9 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+input[name^="variable_stock"], input[name="_stock"] {
+    pointer-events: none;
+    opacity: 0.4;
+}

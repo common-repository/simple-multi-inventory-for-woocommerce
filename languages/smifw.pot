@@ -1,0 +1,186 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-10 22:13+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin/class-smifw-admin.php:159
+#, php-format
+msgid "Stock of %s"
+msgstr ""
+
+#: admin/class-smifw-admin.php:161
+#: admin/partials/admin-location-stock-edit.php:13
+#, php-format
+msgid "Stock quantity of %s"
+msgstr ""
+
+#: admin/class-smifw-admin.php:176
+#, php-format
+msgid "Regular price of %s"
+msgstr ""
+
+#: admin/class-smifw-admin.php:187
+#, php-format
+msgid "Sale price of %s"
+msgstr ""
+
+#: admin/partials/admin-location-stock-edit.php:4
+#, php-format
+msgid "Stock Of %s"
+msgstr ""
+
+#: admin/partials/admin-location-stock-edit.php:11
+msgid "Stock"
+msgstr ""
+
+#: admin/partials/admin-location-stock-edit.php:27
+msgid "Regular price"
+msgstr ""
+
+#: admin/partials/admin-location-stock-edit.php:37
+msgid "Sale price"
+msgstr ""
+
+#: admin/partials/woocommerce-is-not-active.php:3
+msgid ""
+"WooCommerce is not activated, please activate it to use Simple Multi-"
+"Inventory For Woocommerce"
+msgstr ""
+
+#: public/class-smifw-public.php:122
+msgctxt "Taxonomy General Name"
+msgid "Stock Locations"
+msgstr ""
+
+#: public/class-smifw-public.php:123
+msgctxt "Taxonomy Singular Name"
+msgid "Stock Location"
+msgstr ""
+
+#: public/class-smifw-public.php:124 public/class-smifw-public.php:243
+#: public/class-smifw-public.php:442 public/class-smifw-public.php:593
+msgid "Stock Location"
+msgstr ""
+
+#: public/class-smifw-public.php:125
+msgid "All Locations"
+msgstr ""
+
+#: public/class-smifw-public.php:126
+msgid "Market"
+msgstr ""
+
+#: public/class-smifw-public.php:126
+msgid "Parent Location"
+msgstr ""
+
+#: public/class-smifw-public.php:127
+msgid "Parent Location:"
+msgstr ""
+
+#: public/class-smifw-public.php:128
+msgid "New Location Name"
+msgstr ""
+
+#: public/class-smifw-public.php:129
+msgid "Add New Location"
+msgstr ""
+
+#: public/class-smifw-public.php:130
+msgid "Edit Location"
+msgstr ""
+
+#: public/class-smifw-public.php:131
+msgid "Update Location"
+msgstr ""
+
+#: public/class-smifw-public.php:132
+msgid "View Location"
+msgstr ""
+
+#: public/class-smifw-public.php:133
+msgid "Separate locations with commas"
+msgstr ""
+
+#: public/class-smifw-public.php:134
+msgid "Add or remove locations"
+msgstr ""
+
+#: public/class-smifw-public.php:135
+msgid "Choose from the most used"
+msgstr ""
+
+#: public/class-smifw-public.php:136
+msgid "Popular Locations"
+msgstr ""
+
+#: public/class-smifw-public.php:137
+msgid "Search Locations"
+msgstr ""
+
+#: public/class-smifw-public.php:138
+msgid "Not Found"
+msgstr ""
+
+#: public/class-smifw-public.php:139
+msgid "No locations"
+msgstr ""
+
+#: public/class-smifw-public.php:140
+msgid "Locations list"
+msgstr ""
+
+#: public/class-smifw-public.php:141
+msgid "Locations list navigation"
+msgstr ""
+
+#: public/class-smifw-public.php:292
+msgid "Select location"
+msgstr ""
+
+#: public/class-smifw-public.php:327
+#, php-format
+msgid "Product low at %s"
+msgstr ""
+
+#: public/class-smifw-public.php:330
+#, php-format
+msgid "%1$s is low at %s. There are %2$d left."
+msgstr ""
+
+#: public/class-smifw-public.php:366
+#, php-format
+msgid "Product out of stock at %s"
+msgstr ""
+
+#: public/class-smifw-public.php:368
+#, php-format
+msgid "%s is out of stock at %s."
+msgstr ""
+
+#: public/class-smifw-public.php:417
+#, php-format
+msgid "Unable to reduce location stock for item %s."
+msgstr ""
+
+#: public/class-smifw-public.php:534
+msgid "Location Stock levels reduced:"
+msgstr ""
+
+#: public/class-smifw-public.php:594
+msgid "Select Location"
+msgstr ""
